@@ -213,7 +213,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "Know more about him";
+    content: "";
 }
 .about .about-content .left{
     width: 45%;
@@ -304,7 +304,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "Services provided by him";
+    content: "";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -450,7 +450,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .title::after{
-    content: "get in touch with him";
+    content: "";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
