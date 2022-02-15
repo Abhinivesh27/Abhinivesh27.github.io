@@ -7,6 +7,7 @@
         "author": "Abhi",
         "Tags": "Android",
         "Type": "Reference",
+        "header": "android-internals.jpg",
         "post": [
             {"subheading":"Overview" , "image":"https://developer.android.com/guide/platform/images/android-stack_2x.png", "content":"Android is an open source, Linux-based software stack created for a wide array of devices and form factors. The following diagram shows the major components of the Android platform. "},
             {"subheading":"Kernel Layer" , "image":" ", "content":"The foundation of the Android platform is the Linux kernel. For example, the Android Runtime (ART) relies on the Linux kernel for underlying functionalities such as threading and low-level memory management"}
@@ -16,15 +17,15 @@
     {
         "id": 2,
         "title": "What is Internet",
-        "date":"16 Feb 2022", 
+        "date":"upcoming", 
         "subtitle":"Let's see what is that term internet refers to and so about internet",
-        "content": " "
+        "post": " "
     },
     {
         "id": 2,
         "title": "How the Internet Works",
-        "date":"17 Feb 2022", 
+        "date":"upcoming", 
         "subtitle":"This blog explains you how the internet works and its mechanism of working",
-        "content": " "
+        "post": " "
     }
 ]
