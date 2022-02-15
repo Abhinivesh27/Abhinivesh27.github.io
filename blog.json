@@ -5,7 +5,7 @@
         "date":"15 Feb 2022", 
         "subtitle":"Deep introduction to internal archetecture of android operating system",
         "author": "Abhi",
-        "Tags": "Android, OS",
+        "Tags": "Android",
         "Type": "Reference",
         "post": [
             {"subheading":"Overview" , "image":"https://developer.android.com/guide/platform/images/android-stack_2x.png", "content":"Android is an open source, Linux-based software stack created for a wide array of devices and form factors. The following diagram shows the major components of the Android platform. "},
