@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ipsec-home-dev/static/css/main.de00206e.css",
-    "main.js": "/ipsec-home-dev/static/js/main.3dddfdeb.js",
-    "index.html": "/ipsec-home-dev/index.html",
-    "main.de00206e.css.map": "/ipsec-home-dev/static/css/main.de00206e.css.map",
-    "main.3dddfdeb.js.map": "/ipsec-home-dev/static/js/main.3dddfdeb.js.map"
+    "main.css": "/static/css/main.de00206e.css",
+    "main.js": "/static/js/main.3dddfdeb.js",
+    "index.html": "/index.html",
+    "main.de00206e.css.map": "/static/css/main.de00206e.css.map",
+    "main.3dddfdeb.js.map": "/static/js/main.3dddfdeb.js.map"
   },
   "entrypoints": [
     "static/css/main.de00206e.css",
