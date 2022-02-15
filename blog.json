@@ -4,6 +4,9 @@
         "title": "Android Internals",
         "date":"15 Feb 2022", 
         "subtitle":"Deep introduction to internal archetecture of android operating system",
+        "author": "Abhi",
+        "Tags": "Android, OS",
+        "Type": "Reference",
         "post": [
             {"subheading":"Overview" , "image":"https://developer.android.com/guide/platform/images/android-stack_2x.png", "content":"Android is an open source, Linux-based software stack created for a wide array of devices and form factors. The following diagram shows the major components of the Android platform. "},
             {"subheading":"Kernel Layer" , "image":" ", "content":"The foundation of the Android platform is the Linux kernel. For example, the Android Runtime (ART) relies on the Linux kernel for underlying functionalities such as threading and low-level memory management"}
