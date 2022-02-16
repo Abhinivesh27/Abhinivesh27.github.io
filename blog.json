@@ -9,8 +9,13 @@
         "Type": "Reference",
         "header": "https://raw.githubusercontent.com/Abhinivesh27/Abhinivesh27.github.io/main/android-internals.png",
         "post": [
-            {"subheading":"Overview" , "image":"https://developer.android.com/guide/platform/images/android-stack_2x.png", "content":"Android is an open source, Linux-based software stack created for a wide array of devices and form factors. The following diagram shows the major components of the Android platform. "},
-            {"subheading":"Kernel Layer" , "image":" ", "content":"The foundation of the Android platform is the Linux kernel. For example, the Android Runtime (ART) relies on the Linux kernel for underlying functionalities such as threading and low-level memory management"}
+            {"subheading":"Overview" , "image":"https://raw.githubusercontent.com/Abhinivesh27/Abhinivesh27.github.io/main/ANdroid%20internals%20diagram%20(1).png", "content":"Android is an open source and Linux based operating system created for mobile devices, inorder to develop or pentest or audit an android application, we must know how the operating system and android application works. let's see internal architecture of android os and its components."},
+            {"subheading":"Kernel Layer" , "image":" ", "content":"The kernel is known as the heart of an operating system. Android's kernel was a modified version of linux kernel and it takes some advantages over the linux kernel."},
+            {"subheading":"Hardware Abstraction Layer" , "image":" ", "content":"Hardware abstraction layer (HAL) is a layer between the physical hardware or device drivers of a computer and the software that runs on that computer. The function is to hide differences in hardware and therefore provide a consistent platform to run applications on."},
+            {"subheading":"Native Libraries Layer" , "image":" ", "content":"Since android os was built from linux, some components like android runtime and hal are made of native language (C/C++) so it requires native libraries to function properly, the native libraries written in C/C++ are placed at native library layer."},
+            {"subheading":"Java Api Framework Layer" , "image":" ", "content":"The total power of android os is located in java api framework layer at ready to serve state (API) and it is the layer that provides the android application with the power to interact with the operating system."},
+            {"subheading":"Application Layer" , "image":" ", "content":"The system apps and third party apps installed from play store or any other are located at this application layer "},
+            {"subheading":"Android Run Time" , "image":" ", "content":"The android runtime (ART) is a component in android os which runs the android apps in it. this component is responsible for running applications"}
             
         ]
     },
